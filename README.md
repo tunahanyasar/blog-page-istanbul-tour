@@ -1,12 +1,18 @@
-# :world_map: Blog Site Project | Istanbul Tour
+# :world_map: Blog Website Project | Istanbul Tour
 
 [🇹🇷 Click for Turkish README.md](./README.tr.md)
 
 *Created on: February 12, 2025*
 
-* This project is created for Patika Frontend Bootcamp as **Week-2 / Assignment-1 | Blog Site** project.
+* This project is created for Patika Frontend Bootcamp as **Week-2 / Assignment-1 | Blog Website** project.
 * A blog website developed using **HTML** and **CSS**.
 * Semantic HTML tags and modern web design principles are used.
+
+---
+
+## 🌐 Live Demo
+
+Visit the live website: [Istanbul Tour Blog](https://blog-page-istanbul-tour.vercel.app/)
 
 ---
 
