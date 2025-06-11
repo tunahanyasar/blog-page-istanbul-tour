@@ -12,9 +12,9 @@
 
 ## :computer: Usage
 
-1. Clone the project
+1. Clone the repository
 ```bash
-git clone https://github.com/tunahanyasar/Hafta-2.git
+git clone https://github.com/tunahanyasar/blog-page-istanbul-tour.git
 ```
 
 2. Navigate to the project directory

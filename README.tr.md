@@ -12,9 +12,9 @@
 
 ## :computer: Kullanım
 
-1. Projeyi klonlayın
+1. Repoyu klonlayın
 ```bash
-git clone https://github.com/tunahanyasar/Hafta-2.git
+git clone https://github.com/tunahanyasar/blog-page-istanbul-tour.git
 ```
 
 2. Proje dizinine gidin
